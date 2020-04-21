@@ -7,3 +7,9 @@ This script is based on the Google Sheet API, but it is not automatic. Too run t
 And then, open the Gsheet.ipynb via Jupyter Notebook, modify the name of .json file and the name of Google Sheet.
 
 Finally, you can run the code.
+
+Here, with the .json code that I have uploaded, this script will lead you to the Google Sheet that I created: https://docs.google.com/spreadsheets/d/1jA0CIwfu2bfNievRxntHpDEIPKdGukl2h1F-H3Spx3c/edit#gid=37090255
+
+To test, please do not create the tab named 'C' before running the code. The tab 'C' will be created automatically.
+
+Thank you.
